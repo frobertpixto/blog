@@ -1,0 +1,51 @@
+# Site settings
+title: My Blog
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about coding, technology, and software development.
+baseurl: "" # the subpath of your site, e.g. /blog or empty
+url: "https://frobertpixto.github.io" # the base hostname & protocol for your site
+
+# Author settings
+author:
+  name: Francois Robert
+  email: frobert@pixtolab.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Francois Robert"
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
+
+# Social media links
+github_username: frobertpixto
+
+# Pagination settings
+paginate: 5
+paginate_path: "/page:num/"
+
+# Theme settings (if using Minima theme)
+minima:
+  social_links:
+    github: frobertpixto
