@@ -44,8 +44,3 @@ github_username: frobertpixto
 # Pagination settings
 paginate: 5
 paginate_path: "/page:num/"
-
-# Theme settings (if using Minima theme)
-minima:
-  social_links:
-    github: frobertpixto
