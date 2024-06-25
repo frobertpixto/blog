@@ -9,9 +9,8 @@ author:
   email: frobert@pixtolab.com
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 remote_theme: jekyll/minima
-
 
 # Permalinks
 permalink: /:year/:month/:day/:title/
