@@ -23,6 +23,6 @@ Computing is now ubiquitous (in our phones, hospitals, cars, ...), and the relia
 By accepting the immaturity of our profession, we can more easily maintain our vigilance to produce quality systems.
 
 That being said, the best solutions revolve around three points:
-- The choice of developers is as important as the casting of a movie. Sometimes, not always, the chemistry is just right and the resulting synergy creates great solutions.
-- Produce small deliverables quickly, tested both technically and functionally.
-- Be willing to partially or completely review any weak component.
+- Choosing developers is as important as the casting of a movie. Sometimes, not always, the chemistry is just right and the resulting synergy creates great solutions.
+- Producing small deliverables quickly, tested both technically and functionally.
+- Generating metrics and being ready to partially or completely review any weak component.
