@@ -19,7 +19,7 @@ Usually, major projects allow for specialization and collaboration between diffe
 There is the seemingly simple case of the developer who super-specializes in a single role (architecture, quality control, etc.). In fact, it is not so simple because even the most specialized developers roles are multi-faceted. 
 in short, the daily life of most developers is composed of tasks and methodologies that were unimaginable 30 years ago.
 
-Computing is now ubiquitous (in our phones, hospitals, and cars), and the reliability of systems has quickly been taken for granted everywhere (surprisingly!).
+Computing is now ubiquitous (in our phones, hospitals, cars, ...), and the reliability of systems has quickly been taken for granted everywhere (surprisingly!).
 By accepting the immaturity of our profession, we can more easily maintain our vigilance to produce quality systems.
 
 That being said, the best solutions revolve around three points:
